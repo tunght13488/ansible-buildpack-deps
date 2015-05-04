@@ -23,7 +23,7 @@ Example Playbook
 
     - hosts: servers
       roles:
-         - tunght.buildpack-deps
+         - tunght13488.buildpack-deps
 
 License
 -------
