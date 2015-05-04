@@ -1,7 +1,7 @@
 ---
 galaxy_info:
   author: Tung Ha
-  description:
+  description: Base packages including cURL, SCM and build dependencies
   company: your company (optional)
   # If the issue tracker for your role is not on github, uncomment the
   # next line and provide a value
