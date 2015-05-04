@@ -2,7 +2,7 @@
 galaxy_info:
   author: Tung Ha
   description: Base packages including cURL, SCM and build dependencies
-  company: your company (optional)
+  company: SmartOSC Corp. <http://www.smartosc.com>
   # If the issue tracker for your role is not on github, uncomment the
   # next line and provide a value
   # issue_tracker_url: http://example.com/issue/tracker
@@ -74,7 +74,7 @@ galaxy_info:
   #  - 9.2
   - name: Ubuntu
     versions:
-    - all
+      - all
   #  - lucid
   #  - maverick
   #  - natty
@@ -99,7 +99,7 @@ galaxy_info:
   #  - any
   - name: Debian
     versions:
-    - all
+      - all
   #  - etch
   #  - lenny
   #  - squeeze
@@ -117,11 +117,11 @@ galaxy_info:
   #- database
   #- database:nosql
   #- database:sql
-  - development
+    - development
   #- monitoring
   #- networking
   #- packaging
-  - system
+    - system
   #- web
 dependencies: []
   # List your role dependencies here, one per line.
