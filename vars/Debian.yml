@@ -1,5 +1,5 @@
 ---
-tunght.buildpack-deps.packages:
+tunght13488_buildpack_deps_packages:
   # curl
   - ca-certificates
   - curl
