@@ -1,15 +1,5 @@
 ---
 tunght13488_buildpack_deps_packages:
-  # curl
-  - ca-certificates
-  - curl
-  - wget
-  # scm
-  - bzr
-  - git
-  - mercurial
-  - openssh-client
-  - subversion
   # buildpack-deps
   - autoconf
   - build-essential
